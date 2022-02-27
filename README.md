@@ -1,8 +1,6 @@
 # Pixiv Bookmarks Sync
 A utility to incrementally sync personal (or other user's) Pixiv illustration bookmarks to sqlite db and original images to local.
 
-[中文说明](https://www.galacticcontender.com/2020/01/29/Pixiv-Bookmarks-Sync/)
-
 ## Dependencies
 * [PyPixiv](https://github.com/Yukariin/PyPixiv)
 * termcolor
